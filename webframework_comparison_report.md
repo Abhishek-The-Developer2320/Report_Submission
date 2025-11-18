@@ -116,16 +116,16 @@ ORM is **2× slower** because it performs extra work:
 ## 6. Graphs (Placeholders)
 
 ### 📊 Single CRUD Comparison  
-![Single CRUD Graph](single_crud.png)
+![Single CRUD Graph](images\single_crud.png)
 
 ### 📊 Bulk Operations Comparison  (Bulk 100)
-![Bulk Operations Graph](bulk_ops.png)
+![Bulk Operations Graph](images\bulk_ops.png)
 
 ### 📊 ORM vs Raw SQL Comparison  (Single CRUD )
-![ORM vs Raw SQL Graph](orm_vs_raw.png)
+![ORM vs Raw SQL Graph](images\orm_vs_raw.png)
 
 ### 📊 Memory Usage Comparison  (Bulk 100)
-![Memory Usage Graph](orm_vs_raw_bulk.png)
+![Memory Usage Graph](images\orm_vs_raw_bulk.png)
 ---
 
 ## 7. Conclusion
