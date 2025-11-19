@@ -63,7 +63,7 @@ This is expected because these operations are lightweight and memory-bound, wher
 ---
 
 ## 5. Scalability Observation
-  ![Scaling Trend](images\scaling_trend.png)
+  ![Scaling Trend](images/scaling_trend.png)
 
 
 
