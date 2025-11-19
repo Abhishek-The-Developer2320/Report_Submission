@@ -110,10 +110,10 @@ Rust uses **~4–13 MB**, Python uses **~5000 MB** for 100M dataset.
 ## 7. Graphs (Placeholders)
 
 ### 📊 Execution Time Comparison  
-![Execution Time Graph (1 Million dataset)](images\Searching_1M.png)
+![Execution Time Graph (1 Million dataset)](images/Searching_1M.png)
 
 ### 📊 Memory Usage Comparison  
-![Memory Usage Graph](images\Searching_memory_1M.png)
+![Memory Usage Graph](images/Searching_memory_1M.png)
 
 ## 8. Conclusion
 
